@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: navy;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.resume-photo {
+    margin-top: 60px;
+}
+
+.hero {
+    background-color: #f8f9fa;
+    padding: 60px;
+    text-align: center;
+}
+
+.hero h1 {
+    color: navy;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+.section-title {
+    color: navy;
+    margin-top: 30px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+}
