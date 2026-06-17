@@ -1,5 +1,5 @@
 body {
-    background-color: #e6f2ff;
+    background-color: light gray;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 20px;
@@ -22,7 +22,7 @@ p {
 .nav {
     text-align: center;
     padding: 15px;
-    background-color: navy;
+    background-color: black;
     margin-bottom: 20px;
 }
 
